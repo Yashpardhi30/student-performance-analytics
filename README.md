@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Student Performance Analytics System
 
@@ -61,3 +62,7 @@ The CSV file contains 20 student records with student ID, name, department, subj
 
 ## 10. Conclusion
 This project demonstrates how Python, NumPy, and Pandas can be used to process student data and generate useful academic performance statistics.
+=======
+# student-performance-analytics
+Python project for student performance analysis using NumPy and Pandas.
+>>>>>>> 8ef3edc5fa3f7727f6185f045417f59cd61810b8
